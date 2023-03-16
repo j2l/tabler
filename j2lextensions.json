@@ -596,8 +596,8 @@
     }, {
         "id": 58,
         "name": "@j2l/tabler",
-        "source": "github",
-        "location": "j2l/tabler",
+        "source": "git",
+        "location": "https://github.com/j2l/tabler.git",
         "downloads": 0,
         "description": "localized tabler theme",
         "has_theme": true,
