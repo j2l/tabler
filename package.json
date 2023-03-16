@@ -1,5 +1,5 @@
 {
-  "name": "@saltcorn/tabler",
+  "name": "@j2l/tabler",
   "version": "0.1.9",
   "description": "tabler.io layout plugin",
   "main": "index.js",
@@ -10,12 +10,12 @@
     "@saltcorn/data": "^0.2.0",
     "@saltcorn/markup": "^0.2.0"
   },
-  "author": "Tom Nielsen",
+  "author": "Tom Nielsen & Philippe Manzano",
   "license": "MIT",
   "devDependencies": {
     "jest": "^25.1.0"
   },
-  "repository": "github:saltcorn/tabler",
+  "repository": "github:j2l/tabler",
   "jest": {
     "testEnvironment": "node"
   },
