@@ -600,7 +600,7 @@
         "location": "j2l/tabler",
         "downloads": 0,
         "description": "localized tabler theme",
-        "has_theme": false,
+        "has_theme": true,
         "documentation_link": null,
         "has_auth": false,
         "unsafe": false
